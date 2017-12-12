@@ -1,0 +1,11 @@
+{
+  "name": "node-test",
+  "version": "0.0.1",
+  "description": "a simple node.js project",
+  "private": true,
+  "dependencies": {
+    "consolidate": "^0.15.0",
+    "express": "3.x",
+    "swig": "^1.4.2"
+  }
+}
